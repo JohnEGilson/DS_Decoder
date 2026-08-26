@@ -1,0 +1,419 @@
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  318,   0,    363,    0,  0, 2026,05,13, 22,29,59,   23.28578, -151.75488,    3
+58 01 37 17 fd 00 0e 00 f0 00 29 22 13 88 03 e8 04 b0 04 b0 00 03 00 60 01 0c 00 01 0a 8c 00 78 
+00 0a 00 0a 03 e8 00 05 03 e8 00 01 04 b0 00 3c 3b 01 00 18 fe 0d e7 70 c6 a5 87 a7 4d 09 72 02 
+03 17 05 08 1e 26 2b 0f 3b 12 10 93 34 00 ac 00 41 27 00 00 13 29 12 51 29 00 00 00 00 00 00 00 
+00 2f 1f f2 0e 2e 10 1f 1f 00 00 00 fb 04 08 f9 fa 06 ff 03 fd 01 00 01 ff 01 fe 02 00 ff 01 ff 
+01 ff 01 fe 02 fe 02 f8 08 f0 00 01 e1 00 01 e1 f2 e2 5a f0 1f 10 e2 1d 25 bf 01 0e 2f 79 1c 5e 
+1f 00 07 f8 02 fe 02 ff 01 06 f9 ff 02 ff ff 02 05 be 2e 2f 6a 00 06 92 e2 4b 0f 16 a1 d3 49 21 
+f6 fa ff 01 00 05 fb 00 00 fe 09 f8 00 07 fa 00 fe 02 06 f9 01 05 f9 02 00 00 0b 3b 32 10 5e 36 
+00 8c 00 8b 0e 00 00 00 24 92 49 20 00 00 00 00 00 00 00 00 1e 2f 00 01 f0 00 1f 01 e1 01 f0 01 
+e2 f0 00 01 0f 0f 2e 2f f2 f1 f0 1f 1e 2f 01 e2 ff 11 f0 f2 f1 f0 f3 e0 00 01 f0 00 00 00 00 1f 
+1e 2f 00 00 00 1f 00 00 00 00 1e 2f 1f 00 00 00 1f 00 0f 2f 1f 00 00 0f 2f 3b 24 3b 3e 3e       
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  320,   0,    364,    0,  1, 2026,05,13, 22,30,14,   23.28578, -151.75488,    3
+58 01 39 17 fd 00 0e 01 40 11 34 31 95 59 b7 00 00 10 00 63 00 0f a0 00 6c 00 19 a0 01 38 00 23 
+a0 02 1b 00 2d 20 03 01 00 45 a0 04 e9 00 5e a0 06 b4 00 76 a0 08 8a 00 8e a0 0a 36 00 a6 a0 0b 
+e3 00 be a0 0d c4 00 d6 a0 0f b6 00 ee a0 11 8c 01 06 a0 13 43 01 1f a0 15 04 01 37 a0 16 ca 01 
+4f a0 18 84 01 67 a0 1a 2e 01 7f a0 1b e4 01 97 a0 1d ad 01 af a0 1f 85 01 c7 a0 21 55 01 df a0 
+23 10 01 f8 a0 24 b8 02 10 a0 26 58 02 28 a0 27 f1 02 40 a0 29 8c 02 58 a0 2b 29 02 70 a0 2c cd 
+02 88 a0 2e 75 02 a0 a0 30 1c 02 b9 a0 31 b8 02 d1 a0 33 4d 02 e9 a0 34 d9 03 01 a0 36 5e 03 19 
+a0 37 dc 03 31 a0 39 58 03 49 a0 3a cc 03 61 a0 3c 45 03 7a a0 3d c8 03 92 a0 3f 54 03 aa a0 40 
+e8 03 c2 a0 42 7d 03 da a0 44 14 03 f2 a0 45 ac 04 0a a0 47 37 04 22 a0 48 bb 04 3b a0 4a 3b 04 
+53 a0 4b b8 04 6b a0 4d 2d 04 81 a0 4e 83 04 83 00 4e 9e 04 9c a0 50 13 04 be a0 52 08 04 e0 a0 
+53 fd 05 02 a0 55 ef 05 25 a0 57 e4 05 48 a0 59 da 05 6a a0 5b cc 05 8c a0 5d c1 3b 24 3e 34 3e 
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  320,   0,    365,    0,  2, 2026,05,13, 22,30,28,   23.28578, -151.75488,    3
+58 01 39 17 fd 00 0e 02 41 11 34 31 95 92 76 00 00 a0 5f b5 00 21 a0 61 a8 00 42 a0 63 9a 00 63 
+a0 65 8d 00 85 a0 67 85 00 a7 a0 69 76 00 c9 a0 6b 6b 00 ec a0 6d 63 01 0f a0 6f 54 01 32 a0 71 
+48 01 56 a0 73 39 01 7b a0 75 2f 01 a1 a0 77 23 01 c7 a0 79 18 01 ee a0 7b 0a 02 16 a0 7c ff 02 
+3e a0 7e f2 02 67 a0 80 e7 02 90 a0 82 db 02 bb a0 84 d0 02 e6 a0 86 c4 03 12 a0 88 b9 03 3f a0 
+8a ac 03 6c a0 8c 9f 03 9a a0 8e 94 03 c7 a0 90 88 03 f6 a0 92 7c 04 24 a0 94 73 04 51 a0 96 64 
+04 80 a0 98 59 04 af a0 9a 4b 04 de a0 9c 41 05 0e a0 9e 32 05 3f a0 a0 29 05 72 a0 a2 1c 05 a6 
+a0 a4 10 05 da a0 a6 03 06 10 a0 a7 f8 06 47 a0 a9 e9 06 80 a0 ab e0 06 ba a0 ad d4 06 f4 a0 af 
+c8 07 30 a0 b1 ba 07 6d a0 b3 b1 07 aa a0 b5 a4 07 e9 a0 b7 97 08 2b a0 b9 8c 08 6d a0 bb 81 08 
+b1 a0 bd 74 08 f7 a0 bf 67 09 3f a0 c1 59 09 8c a0 c3 51 09 ac 90 c4 23 0b 17 60 b8 98 0c 80 60 
+ae fd 0d e8 60 a7 42 0f 51 60 a0 ac 10 b9 60 92 6b 12 22 60 86 6d 13 8b 60 7c 0d 3b 24 3e 3e 3e 
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    366,    0,  3, 2026,05,13, 22,30,39,   23.28578, -151.75488,    3
+58 01 46 17 fd 00 0e 03 10 11 41 00 01 a2 00 00 63 00 00 0b 24 92 49 28 92 49 49 24 92 48 00 00 
+f1 e0 10 1e 44 40 e0 12 ee 3f 1f e2 00 1e 10 10 d2 1f 00 1d 21 ff 11 ff 10 0f 3d 3d 1f 12 1a 13 
+ff 10 1f 00 00 f1 1f f2 ff 1f 20 e1 00 01 ff 2f 0f 10 1e 11 f0 00 0f 10 01 ff 11 e1 1f 00 f1 00 
+1e 2e 11 f0 f1 1f 0f 10 00 00 01 ff 00 00 ff 02 fe fe 08 fa 01 00 ff 02 d3 e2 f0 00 01 0f d4 0f 
+10 fd 31 00 c4 fd 40 f0 10 b5 1d 11 ff 2f 00 0f 10 3d f0 10 e4 ef 3d f5 cf 4e d6 ee f4 fe f3 1f 
+d1 21 b2 3f ef 4e d5 09 07 01 f7 09 00 f8 08 00 f8 08 ff f9 08 01 f6 0a fe f9 08 00 f7 09 00 f7 
+01 08 00 ff 00 f9 00 08 00 ff 00 fb fd 08 00 00 01 f7 08 01 f7 09 fd 02 01 f7 08 ff fa 06 01 ff 
+00 f8 0a fe 00 00 00 02 f6 08 00 00 01 f8 07 00 01 ff fa 07 fd 04 fe f9 08 ff 01 00 f8 08 ff 02 
+ff f8 08 ff fa 07 00 f9 08 fe 01 00 f9 08 ff f9 08 ff f9 08 ff f9 08 00 f8 07 01 f8 00 09 fe fa 
+07 ff fa 08 fe fa ff 09 fe fa 09 fe f9 00 07 00 f9 ff 0a fd fa 08 00 f7 00 0a fe f9 ff 09 ff f9 
+07 01 f7 00 09 fe fa 08 3b 24 36 30 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    367,    0,  4, 2026,05,13, 22,30,48,   23.28578, -151.75488,    3
+58 01 46 17 fd 00 0e 04 11 11 41 1a 01 a2 00 20 94 00 00 18 49 24 8a 45 14 49 24 92 49 28 00 00 
+f6 09 00 f8 08 ff f9 01 07 ff 00 01 f7 09 ff f9 07 00 fa 05 01 f9 07 00 f8 09 fe 01 00 f8 08 ff 
+01 ff f9 07 00 00 01 f7 09 ff 00 00 00 ff fa 08 fe 01 00 00 00 ff 02 f7 08 00 00 ff 01 ff 02 fd 
+fc 06 fe 03 fe 00 01 ff 00 02 fe 01 ff 00 01 f8 08 ff 01 00 fe 01 00 00 01 ff 01 fe 02 ff 02 fe 
+01 96 01 0e 20 f0 1f 1f 01 f8 08 ff 01 ff 01 ff 00 01 00 fe 04 fd ff 03 f7 08 ff 01 ff 02 fd 03 
+fe 01 00 f9 07 ff 02 fe 10 97 00 f2 f9 71 e1 0f fa 08 ff 00 00 00 00 fa 06 00 00 00 f8 09 ff 01 
+e1 09 71 ff b7 0e 1f 2e 02 f8 07 00 ff 01 00 00 ff 01 f8 08 ff 02 fe 00 02 d2 fa 7f 01 f0 1e 2f 
+00 1e 10 10 e0 20 d2 1e 02 ff 2e 10 0f 10 05 b1 d3 e0 1f 02 e0 79 2e 00 1e 10 15 bf 00 00 6a 1f 
+00 06 91 69 2f f6 b1 e1 6a 01 f0 06 92 f0 00 5b 0f 24 a1 69 10 f6 a1 5b 05 a2 e1 f1 69 24 b0 00 
+00 6a 00 1d 36 91 e2 00 5a 1f 1f 1f 10 0e 2f 2e 1f 25 92 f0 f1 00 1e 2f ff 02 ff f9 08 fe 02 ff 
+00 00 01 fe 02 ff 01 ff 3b 24 30 30 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  325,   0,    368,    0,  5, 2026,05,13, 22,30,57,   23.27320, -151.77341,    3
+58 01 3e 17 fd 00 0e 05 20 11 39 00 00 f2 00 72 df 00 00 04 6d 24 db 69 24 90 00 00 00 00 00 00 
+ff 80 0b ff 90 01 00 3f fb ff ff fc 00 9f e5 00 60 04 f7 50 1d 05 80 02 00 30 0d ff 9f d8 02 80 
+15 f8 00 03 00 50 6c 00 4f f9 fd 30 0f 01 5f f5 ef fe 18 00 07 fd 00 f3 05 e3 13 18 10 fa e4 ed 
+20 d7 02 12 20 f2 01 07 fc c5 3b c7 03 2c 37 bb f6 0a 09 f3 e1 10 26 f2 a8 1b b6 66 11 b2 dc 0d 
+0b 80 11 02 1f ac f9 9f d4 f9 f0 af ff 2f a1 0f df ec fd cf fc fa af d6 02 6f 7e 06 7f fe ff df 
+ab 02 7f d8 fc 6f bc 0a b0 56 02 7f 7d 02 50 60 fe b0 28 fe cf a3 f8 50 12 06 6f c2 03 10 14 02 
+cf 6a 01 cf f5 fe d0 22 02 f0 18 04 80 03 f6 00 3d 02 df 48 ff 70 21 09 5f 95 09 8f da 02 4f c4 
+0f 53 a0 fd e5 7e f8 cb 50 ef 10 01 b8 f1 1e f5 f9 49 f5 c4 05 22 18 d8 03 08 26 03 ff d5 f1 05 
+19 e3 28 fd e7 0c 15 00 fd d4 3a 0a f0 d2 1c e9 34 fd f3 06 f1 01 02 ed 11 10 f7 12 fd ed 09 10 
+f4 f9 07 d4 12 f9 ff f1 2a cb 0f f7 ed 2b e7 f1 1e 1f 0c e4 ce 30 24 e0 ec 03 f6 05 35 cf 04 34 
+3b 24 3b 39 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    369,    0,  6, 2026,05,13, 22,31,11,   23.28578, -151.75488,    3
+58 01 46 17 fd 00 0e 06 21 11 41 0f 01 32 00 2f e4 ff ff e2 49 24 92 49 24 8a 49 00 00 00 00 00 
+ed cd fb 3c 11 d3 2e f6 00 d7 27 04 fc ff 16 fc fc e6 1e 00 0d f2 11 01 b7 2f f9 06 0d 0d f4 ea 
+0b fa 0b 12 e3 06 0a 03 f8 0a ed 0c fe fc 09 02 fd 03 09 e3 01 17 fd fc 0e ff f9 02 f7 00 fe fb 
+10 f4 00 09 13 02 d5 f9 25 00 02 03 01 f4 dd 1e 08 06 f4 f6 14 f5 02 00 04 f8 05 0b fb 01 f7 f6 
+0f 03 02 fd fd 04 00 01 fe 02 fd 04 ff ff 03 fe 00 02 fd 07 fd 01 01 fe fb 01 fa fd 0f fd fe fe 
+00 05 01 ff f9 02 07 ff fe fb ed 0a 0d 04 00 f3 08 f9 07 02 02 fe f8 09 fd fe ef 12 08 ff fc fb 
+02 ff 06 01 00 01 00 f3 02 03 06 03 ff 01 fe ff ff f8 02 07 fd fc 06 ff fe 01 01 fb 09 fa 02 ff 
+02 03 fd 04 f4 0e f3 ff 06 fd 05 00 03 fc 02 fd 06 f9 02 00 00 fd f7 0a 03 07 eb 0d 00 00 03 fc 
+e5 11 e9 03 1d 50 db f4 01 01 fa 08 ff 00 fd fe ff 0b 04 f2 fd 07 02 02 fd 03 fd fe 04 f9 07 fa 
+06 04 f9 fc 0a fb fb f9 10 ff 01 ff fa 05 ff ff ff 03 00 04 f9 03 01 01 fc 02 fe 01 f3 02 06 ff 
+01 01 07 f9 ff 07 02 02 3b 24 32 3a 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  338,   0,    370,    0,  7, 2026,05,13, 22,31,18,   23.28578, -151.75488,    3
+58 01 4b 17 fd 00 0e 07 22 11 46 22 01 cc 00 22 65 00 00 01 48 a2 92 28 94 49 24 94 49 24 92 00 
+00 00 ff fe f4 04 00 04 fc fa 08 fc 05 03 04 f5 0a fe ff fe fd ff 09 f8 04 03 fe 03 00 f4 06 03 
+11 de 11 2f 01 21 d0 1c ff 05 03 fe 00 ff fa 03 05 fd fd fc 01 09 00 fc a4 3f 02 a4 f1 01 11 dc 
+06 00 ff fe 04 fa 00 03 02 00 fa fa 0a 03 fb 03 f8 05 01 01 f6 06 03 02 fe 01 fc 04 01 fd 03 ff 
+fc 07 fc 01 01 02 ff fa fa 09 05 fd 00 fc 06 fe 29 10 4c e2 3f 31 d0 0b 03 04 fc 03 f7 07 03 fb 
+05 fe fa 00 06 01 ff 00 f1 fb 61 e4 fc 04 e2 e3 00 09 f3 11 3e f2 0c f5 01 ff fe 03 ff f4 06 02 
+00 02 00 00 f8 07 02 fe f1 4f 0f 1f f2 ff 2c 21 3b e4 01 1d c6 f1 e1 ef 31 1f f0 ef 5f 0e e5 e0 
+01 d0 4e 2f e2 df 40 f0 04 cd 05 0f 20 e1 d0 2d 20 1e 21 10 0e f2 ee 14 ef 02 10 d0 11 f0 e3 ce 
+03 00 f9 08 02 00 01 fa 01 03 01 ff ff 00 01 fd 11 a6 02 f1 fe 11 01 f2 d2 0f e1 2e 02 d2 00 1b 
+14 e1 10 1d f0 1f 12 eb 6e 12 b0 4f f3 fe 10 f1 e3 2f e2 e0 00 21 00 e0 f1 f0 20 f2 e0 00 1f fd 
+24 f0 f0 f0 2f 10 00 f0 c5 e1 d2 12 fd 3b 24 34 30 3e                                           
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    371,    0,  8, 2026,05,13, 22,31,26,   23.27320, -151.77341,    3
+58 01 46 17 fd 00 0e 08 30 11 41 00 01 62 00 8d 30 ff ff ff 48 a4 92 48 a2 91 44 a4 40 00 00 00 
+02 fe 01 00 00 00 ff 02 ff fd 02 fe fa 0e fa 00 01 01 fe fc 0a 0a 20 ef 08 df fd 00 06 ff fb ff 
+f3 f0 0f f0 00 21 0e 1f 0b f9 f9 02 02 01 00 03 f6 00 01 f6 01 10 13 e4 fd ff 0a fa f5 06 03 fe 
+ec 08 f6 0e 05 e6 04 0e 36 f5 24 c2 f2 f1 ec 26 f2 03 5e c4 f9 ff e9 04 fd f4 16 ed 08 fd fb fc 
+e2 05 29 0b 02 e7 17 fe 05 06 f8 f4 ee 0d 00 fb 09 11 07 e0 04 09 f4 0c fc 08 08 f8 fe fd fe e4 
+fd 16 09 f3 29 e5 11 00 fb fb 01 f7 02 0b fe 08 1c e6 04 f9 fa ff 05 04 ef c0 40 d1 01 00 0f 1e 
+03 fb 07 fd fe 00 00 08 fb ff 02 fe 00 00 00 01 11 ff fe 1f 4d 20 f2 1e 04 03 f9 fd ff 00 07 07 
+f4 fd 07 f7 07 fc 02 ff 00 02 01 fb 0b fb fd 00 02 01 ff 04 fb 01 02 fd f4 e7 cb 5c 3b 15 d1 0f 
+02 ff 03 00 fb 00 04 fd ff 0a fa 00 00 ff fe 01 30 fe 13 93 f4 d2 00 0f 1f 1c 50 e1 fe 11 f1 12 
+00 fb 04 00 fe 03 fd 02 03 f9 00 00 00 ff 03 09 f8 ff fe 03 03 fa 05 fd 02 fd 02 00 fd 02 00 ff 
+6b f1 f2 f0 f1 00 0f 2d 3b 24 35 33 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  329,   0,    372,    0,  9, 2026,05,13, 22,32,59,   23.28578, -151.75488,    3
+58 01 42 17 fd 00 0e 09 31 11 19 16 02 02 00 89 d7 00 00 03 24 92 49 24 92 49 24 92 49 24 92 49 
+f1 ef 02 f3 c2 21 ee 1e 5c f0 2f 0f 01 4e d0 13 d4 c1 e2 00 04 df f0 01 f0 01 1e f3 c4 e2 d2 f0 
+f2 ff 1f 11 f0 02 e1 ff 00 21 0e 2e f2 e1 10 f0 12 c1 f1 2d 3d 1f 10 f1 4c f0 10 01 ff 00 10 00 
+01 f0 f0 02 e1 0f 11 f0 0f 1f 00 2d 3f 1f 00 f0 1f 11 0d 10 01 f1 f1 e2 f1 f1 00 0f 00 00 10 00 
+0f 01 f2 f0 f0 0f 2f 10 f0 1f 00 1f 01 f0 00 2f f0 00 01 f0 1e 2f 00 1f 01 f0 00 10 ff 11 00 0f 
+01 0e 10 01 f0 01 f0 00 2e f2 f0 1f 1e 2f 1f 00 1e 20 f0 01 e2 e1 1f 0f 2f 00 1f 1e 2f 1e 3e 01 
+f0 10 f1 ff 02 0f 1f 00 1f 00 10 f0 1f f1 1f 00 1f 1f 01 f1 f0 1f 00 01 e2 e1 2e 1f 00 1f 00 1f 
+00 1f f2 0f 1f 1f 02 ef 12 e0 00 01 f0 01 f0 01 f0 00 1e 20 f0 01 e1 1f 1f 00 1f 00 00 1f 00 00 
+00 1f 01 f0 00 01 f0 1e 2f 00 1f 1f 00 00 1e 2f 00 01 f0 00 00 00 1e 2f 00 01 ff 10 1f 00 01 f0 
+3b 35 10 24 1b 00 17 00 8a 66 00 00 00 24 00 00 00 00 00 00 00 00 00 00 00 11 0f f1 10 0f f1 02 
+0d 2f 0f 10 3b 24 34 31 3e                                                                      
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  315,   0,    373,    0, 10, 2026,05,13, 22,33,07,   23.27320, -151.77341,    4
+58 01 34 17 fd 00 0e 0a 90 11 19 00 02 02 00 0c 19 00 00 00 24 92 49 24 92 49 24 92 49 24 92 49 
+d2 e1 1e 2f f1 00 1f 01 f0 00 01 e2 ff 10 1f 1e 11 f0 1f 0f 10 01 f0 01 f0 00 1f 0f 20 e1 01 f0 
+00 00 10 e1 1f 01 f0 0f 12 d2 ff 20 e1 1f 00 00 2d 2e 20 e1 1f 00 1f 01 f0 00 01 f0 00 1e 2f 01 
+e2 ff 3e 0f 2f 1f 1f 0f 12 d0 3e 01 e2 f0 1e 2f 1f 00 1e 2f 01 f0 1e 2f f3 e0 00 00 1f 00 1f 1f 
+00 01 f0 01 f0 00 1f 1f 0f 2f 01 e3 e0 00 01 f1 f0 00 1f 01 0f 00 00 1f 00 1f 01 f0 01 e2 0f 01 
+f0 01 f0 1f 1e 11 0e 2f 01 f1 f0 01 f0 00 10 e2 0e 20 f0 1e 11 f1 f0 01 f0 1e 2f 1f 00 01 f1 f1 
+f0 01 e2 f0 1f 0f 4c 11 f1 e2 f1 f1 e2 f0 1e 2f 01 f0 10 e2 f1 f0 01 f0 1e 12 e0 f2 0f 00 01 f1 
+f0 01 ff 2f 01 ff 20 e2 f0 1f 00 1e 2f 00 1f 1f 0f 20 e1 1e 2f 00 01 f0 00 10 f0 00 01 e2 f0 01 
+f0 00 1f f2 f0 1e 10 1f 01 e2 0e 10 1f 00 1f 00 01 f0 0f 2f 1f f2 f1 e2 f0 01 e1 01 f1 e2 e2 f0 
+3b f1 00 16 00 05 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3b 24 3e 32 3e                
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  280,   0,    374,    0, 11, 2026,05,13, 22,33,13,   23.27994, -151.80786,    4
+58 01 11 17 fd 00 0e 0b 91 11 0c 20 01 e7 00 08 88 ff ff fd 24 92 49 24 92 49 24 92 49 24 92 48 
+2f 00 01 f0 f2 f0 1e 11 e2 f0 00 1e 2e 2f 00 1f f1 1f 00 00 00 1f f2 f0 0f 11 f1 e2 e2 0d 21 f0 
+01 e1 01 ff 2f f1 1f 1e 2f f1 00 01 f0 00 00 01 e1 00 00 1d 3f 00 00 01 f0 f1 1f 00 00 00 00 1d 
+30 e2 e2 f0 01 e1 00 00 00 00 00 00 1e 10 1f f2 f0 0f 2f 00 00 00 00 1e 11 e1 01 ff 2f 00 0f 11 
+f0 f1 2d 1f 20 d3 e2 f0 0f 2f 00 00 01 d3 f1 e2 ff 2e 11 f0 00 01 e1 f2 f0 1e 11 e1 00 01 f0 f1 
+01 f0 0f 3d 10 00 00 01 ff 2f 01 e1 1f f1 00 10 d2 01 0e 01 2d 10 01 f1 e1 e3 0e 2f 00 00 01 e2 
+ff 2f 00 01 e1 00 2d 11 ff 11 f0 0f 11 0e 2f 00 f2 f0 01 ff 2e 20 e1 1e 11 f0 00 f2 e2 f1 e2 f0 
+01 e1 1f f2 f0 00 01 e1 1f f3 d1 00 01 e2 f0 00 00 01 f0 00 f2 f0 1f f2 f0 01 e1 1f 0f 2f 1e 2f 
+01 e1 1d 4e 00 01 e1 1f 01 e2 e1 01 f1 e3 d2 ff 2f 0f 20 3b 24 37 3e 3e                         
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  325,   0,    375,    0, 12, 2026,05,13, 22,33,22,   23.27320, -151.77341,    4
+58 01 3e 17 fd 00 0e 0c a0 11 39 00 01 52 00 3f a7 00 00 07 44 a4 52 48 a4 91 45 24 00 00 00 00 
+ff 00 01 ff fc 01 02 01 fd ff fb fd fe 0a 06 fd ff e3 00 22 14 30 2c de cc f2 0e 02 f1 f0 00 21 
+01 00 02 01 04 01 00 fd fe 03 04 09 0d fd f6 fe fb f3 00 ff 01 01 01 03 03 04 ff 01 02 09 f6 f9 
+d2 0f b0 0e 11 f0 01 00 01 00 02 00 02 fe 02 08 09 f7 0e 0a f4 e8 f8 ff 00 07 0c 06 01 fc ff fd 
+02 f5 f6 fb 03 0a 07 07 fb 01 02 01 04 03 f9 f8 01 00 ff fa fd ff 01 fe fe ff 04 0c 08 0e 05 ff 
+f5 fa 06 0f 02 f0 ec 00 ef 10 42 43 2b 2f dd 0e 01 00 07 04 0c 0e fe 00 09 fe f5 f6 f4 f9 04 08 
+0b 01 f4 02 08 fa 00 03 08 05 fb 03 f6 f3 fa fb 01 01 fe 01 01 04 ff ff fc ff 00 02 08 07 00 fd 
+fb f8 ff 01 02 07 06 02 04 fe 07 01 f8 fe ff f6 d0 ff 31 ed cf 00 2e 00 01 01 01 01 00 03 01 ff 
+05 02 01 f8 fe 02 02 ff 03 31 06 d4 be fc ff df 01 03 06 02 02 fb fe 00 09 03 fc 03 02 03 01 04 
+07 04 f0 f5 f8 fd 01 fd 02 00 07 03 08 fe 02 07 f5 02 08 01 ff f6 fb 02 01 fb fe 01 05 05 ff fe 
+3b 24 38 37 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    376,    0, 13, 2026,05,13, 22,33,32,   23.27320, -151.77341,    4
+58 01 46 17 fd 00 0e 0d a1 11 41 15 01 52 00 4f d6 00 00 0b 49 24 89 29 14 92 49 22 00 00 00 00 
+02 09 0c 05 fb e8 fa 0e 0f f0 fe fe fa fe fd ff fc fc 02 08 06 01 0b 07 fb f5 fc 00 00 fe 00 02 
+03 01 ff fc fe 00 01 01 02 03 09 06 fc fe ff fe fb 01 00 06 fd 05 f7 00 05 09 fd f0 ff 01 ff fe 
+02 02 00 05 ff 06 ff fe fe ff 00 0a 0d 0a f0 f6 08 07 0e f9 e7 fb fd ff 01 fe 05 08 fd 06 f9 03 
+9c e1 e0 fe 10 11 fd 00 00 01 0f 01 00 e1 f2 14 3f f0 0f de 1e 10 f1 10 ff 02 ff 02 00 02 01 02 
+06 03 fb 09 05 02 0e f7 f5 f5 f7 00 00 ff ff 00 ff 00 01 01 ff 01 01 01 f4 1f 41 df ce e1 30 57 
+fd 02 fe 09 05 ff fe fa 0c 08 0b f6 ec fd 03 0f fe fb 0e fa 05 fb f0 04 03 f2 f9 03 02 ff 02 08 
+04 0a 00 f4 fd fd 03 07 fd f6 fb ff 01 04 01 05 04 01 fe fd 00 07 0c 04 e9 f7 01 01 fd fd ff 01 
+03 02 00 00 05 04 0d fe f7 f4 fd 01 fe fe 00 ff 01 fe 03 04 04 01 04 05 f6 08 02 0b fe 03 f5 02 
+fe 01 f3 fc 02 03 ff 01 00 fe fc fb 02 ff 01 ff 03 04 0a fc ff fc 05 0b 04 05 ef f1 01 fd ff 01 
+f1 0e 11 f0 0f 10 0f 0f 3b 24 32 30 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  279,   0,    377,    0, 14, 2026,05,13, 22,33,45,   23.32574, -151.78937,    4
+58 01 10 17 fd 00 0e 0e a2 11 0b 2a 01 46 00 60 8f 00 00 00 28 a4 92 48 a4 49 24 92 00 00 00 00 
+f2 e2 d2 0f f1 f0 d2 de 01 fe f6 f8 02 fb 0c 1a 0d 05 f7 01 fc ff 06 03 6a 00 ff aa 0d 02 ef 02 
+00 00 ff fe 01 01 01 02 07 09 01 15 05 fd f1 f5 fb f7 00 02 02 08 01 fd ff fe 02 fe 03 fa fd 01 
+02 00 02 ff fc fd 04 04 fb f8 ff 01 fe 01 01 fe 01 ff fe fd f8 fb 02 03 0b 03 ff 00 00 ff fe 00 
+03 01 fe 00 fc f8 fb 09 09 00 ff fe fd 00 0b 03 07 00 04 00 00 ff 07 02 f8 fd 00 fc 05 fe fe 00 
+00 06 00 0d 08 f5 f7 02 03 f4 f7 00 02 03 fc fe d2 14 4e f1 f2 c4 d3 e0 00 01 fe ff 01 03 04 01 
+0c 0a fd fa fb f9 f9 ff 02 ff ff fc 00 00 03 03 07 06 0b f8 f8 00 fb fc 0e 10 ee 01 2f 00 ee 10 
+4d 01 fd 30 10 11 f2 5f a1 5d e2 15 da f2 2f f1 1d 1d 21 0f ff ff 00 11 32 3f ef df f3 0c 02 40 
+ff 21 d0 04 f0 f0 e3 d0 fe e0 ef 0e 0e 41 14 10 f2 f3 3b 24 3f 38 3e                            
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    378,    0, 15, 2026,05,13, 22,33,57,   23.32574, -151.78937,    4
+58 01 46 17 fd 00 0e 0f b0 11 41 00 01 82 00 89 20 00 00 00 44 a4 51 48 a4 89 24 94 92 00 00 00 
+ff 01 ff 02 00 fd 01 00 02 ff 00 fc f9 fe 0b 02 0f 2e 01 f1 e2 f1 02 e2 0f 0f f3 e0 01 f1 0f 00 
+00 00 01 00 fd 05 fd 04 fe fe fe 01 00 09 fd ff 01 00 fc 00 ff 00 01 ff ff 00 02 00 fa 02 0a fc 
+fc 41 fe 10 f0 10 0f 1f 01 00 ff 01 ff 02 fe fa 03 0d ec 08 09 05 f4 ff fb e7 60 fc 44 bc ce 6f 
+08 fd 00 ff 01 00 03 00 fb 00 02 00 fe ff ff 01 00 ff fb ff 05 00 08 02 02 fb fb fc 05 11 f8 f7 
+3f d1 01 c3 21 f3 ff d2 ff 00 fd 02 fd 04 04 02 f8 0a 04 fc 00 fc fa 02 fb 0c 02 f7 00 06 fc fe 
+fe 06 05 f9 07 fc 01 fb fd 02 00 ff 00 01 00 02 ff ff ff 00 fe fe 09 ff 1f ee 0d 23 fe f3 3e 02 
+ef f2 e0 11 f1 e0 f2 0f 0f 10 00 f4 b2 14 ce 3f f0 02 fd 6d 3c 30 e1 00 e0 f1 13 fe d2 5d d5 de 
+e6 6e df d2 ff e1 e7 ed 09 f9 fc 06 ff 05 fc fc 04 ff 03 fb fe 02 05 ff ff 00 f9 ff 09 03 0b ec 
+f9 09 08 fb 01 fe 00 ff 00 ff fd fd 00 01 03 fc 00 09 02 00 fb 01 01 fe 00 fe 04 01 ff 01 ff ff 
+ff 02 fd 01 ff 08 fc 03 3b 24 3e 32 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    379,    0, 16, 2026,05,13, 22,34,12,   23.32574, -151.78937,    3
+58 01 46 17 fd 00 0e 10 b1 11 41 18 01 92 00 8a b5 00 00 04 49 12 51 29 14 89 44 a2 89 40 00 00 
+00 fd 01 fe 01 01 07 f8 ff fe 09 01 f9 ff 03 ff ff ff 02 fe 03 fc 03 00 02 ff 00 fa 02 01 0f f6 
+fa 01 fe 09 08 f3 01 00 fd 03 fc fe 0a f8 03 fe 50 cf 10 01 e1 e1 02 ef 10 0f 02 f0 f1 1f 0f 01 
+e3 10 f0 10 e1 0f 1f 01 00 ff 01 ff 01 ff 01 ff fe 06 ff fc fe 07 fa 08 7a cd 2f f1 f0 1f 1f 01 
+0e 11 e3 0f 2d 01 d2 f2 03 fe 01 fc 02 08 fc 03 f4 05 01 0d 03 f2 fb 00 05 0a f2 0c f5 0f f8 fc 
+01 07 f8 fc 03 01 fd fe 30 25 cf ed 54 dc 2d 2d 03 01 ff 04 fa fd 02 07 07 f8 fc 01 ff 04 fc ff 
+01 00 02 ff fe 01 fd 03 0c fc fa ff 00 ff 00 00 0f 00 02 e1 69 2f 13 1c 3f 4a f0 2d 23 e0 d1 e2 
+ff 00 fb 0a 05 f8 fd fe 05 05 05 fa fa 01 01 fe 0f 10 1e 2e 10 0f 10 00 f1 f2 f0 f0 11 e1 00 d3 
+fd 01 fe 04 fa f9 01 f1 08 0e 09 02 fe 00 ff fe 01 4e 02 e2 ef ff f2 1d 02 ff 00 02 fe 01 ff 00 
+02 fb 03 03 f9 0d 01 01 fc ed 0f 01 3f d2 2c 3f fe 1f 3f fe 07 dd 01 ff 01 ff 01 ff 00 fd f6 fd 
+fe 0c 06 01 01 fe 01 fe 3b 24 38 3f 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  335,   0,    380,    0, 17, 2026,05,13, 22,34,26,   23.27320, -151.77341,    4
+58 01 48 17 fd 00 0e 11 b2 10 9b 31 00 d6 00 8d 0f ff ff fd 45 12 89 24 92 40 00 00 00 00 00 00 
+00 03 00 ff 01 fe f6 ff 07 06 00 00 fd fd fc 08 21 04 ed 23 2d 1f c6 c2 fe ff 04 f7 0b 04 fb fc 
+03 04 fc fb 00 00 05 fc 0f f1 f3 1e 10 2b 30 0f 02 f0 e2 0f c5 7c 31 af fe 03 ff 00 ff ff ff 01 
+ff 01 ff 0a 00 fd fe ff ff f2 0e 2d 04 e0 00 e2 f2 e1 00 e2 0f 1f 10 e5 fd f6 dd 2f 5e fd 2f 2f 
+02 d2 d1 01 ef f2 10 00 00 02 f2 ff 0e 13 d0 f2 1f 0f 3e ff 12 f0 1e 2e 00 0f 00 0e f0 d3 20 11 
+1e 2f 3b 50 10 a8 31 97 99 c8 00 00 70 23 b2 00 24 d0 22 c4 00 48 d0 21 84 00 5b d0 20 b2 00 7f 
+d0 1e dc 00 a3 d0 1c f8 00 c7 d0 1b 0a 00 ec d0 19 2b 01 10 d0 17 62 01 34 d0 15 9a 01 58 d0 13 
+d7 01 7d d0 12 3a 01 8f d0 11 45 01 b3 d0 0f 21 01 ce d0 0d 72 01 e6 d0 0b e4 02 00 d0 0a 6c 02 
+1b d0 08 c7 02 34 d0 07 52 02 49 d0 06 21 02 5e d0 04 da 02 72 d0 03 ad 02 7f d0 02 e5 02 8c d0 
+02 1f 02 93 d0 01 bc 02 9a d0 01 5b 02 a1 d0 00 f9 02 a8 d0 00 9f 02 b0 d0 00 77 02 b8 d0 00 74 
+02 b9 80 00 75 02 fa e0 00 6a 3b 24 3f 31 3e                                                    
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  249,   0,    381,    0, 18, 2026,05,13, 22,34,50,   23.32574, -151.78937,    3
+58 00 f2 17 fd 00 0e 12 18 10 ed 00 01 2e 00 4e af 00 00 48 44 94 49 24 92 92 49 00 00 00 00 00 
+1c fd 06 fc 02 01 fd 02 fe 02 ff ff 01 00 01 fc 31 e3 e0 e2 01 2c 1f 2e 2f 1f 1d 3c 6d ff 4f 1b 
+30 00 e1 31 a0 60 a4 ff ff 04 fd ff 04 ff 00 fc 04 02 fb 00 02 05 f8 02 01 1f 10 e0 e4 f0 04 bd 
+6e e3 e5 a2 00 01 f0 00 e3 d2 f3 e1 ff 03 d2 d3 e2 e1 0e 5e d2 0f 03 e0 02 c4 b5 c3 0e f2 1f 04 
+be 5d f4 ef f6 b0 21 dd 7f c2 f2 0d 20 2e d4 01 c1 01 11 b4 e2 e3 c2 f2 fc 03 04 fc 00 fe 08 f4 
+06 02 fe 00 fe 05 fb 00 03 00 fb 08 fb 04 fa 04 fc 06 fb 02 00 01 00 fd 04 fe 00 01 fa 0a f9 02 
+ff 02 00 fb 06 01 fb 04 fc 04 fb 05 fa 07 fd ff 00 00 06 f7 04 ff 01 03 fd 03 f8 08 fa 05 ff ff 
+ff 01 fe 03 00 00 fe ff 06 fb ff 03 fb 08 f9 04 00 fe 03 ff 3b 24 3b 36 3e                      
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  332,   0,    382,    0, 19, 2026,05,13, 22,35,02,   23.27320, -151.77341,    5
+58 01 45 17 fd 00 0e 13 28 10 c7 00 01 2e 00 1b f2 ff ff fd 49 12 49 24 92 49 24 80 00 00 00 00 
+f4 09 fa 05 02 fc 05 f9 02 fe 01 04 fa 04 07 fc fb f7 0e ff fd fc ff 02 04 03 ff 03 fc 01 fd 03 
+01 f5 0b fd 02 00 01 fd ff 05 fe 01 fe 04 fd fb 6e 22 d0 00 2d 4f 01 f1 ef 13 ef 10 10 0e 2f 03 
+f1 0e 00 0e 04 ff 01 f1 f1 02 d1 00 00 0e 3d 4d 20 0c 4d 3e 11 f0 1f 00 1f 10 01 e0 00 f2 1f f1 
+0f 2f 2e 00 02 fd 20 f1 00 1f 00 10 f1 0f 11 e1 0f 01 f1 00 f1 00 f1 0e 30 f0 f0 1f 01 00 1e 2f 
+0f 2f 00 00 0f 11 ff 11 e1 f1 1f f2 e1 1e 00 10 0f 11 f0 f0 2f 01 ff 2e 2f 00 f1 1d 12 f1 e2 e2 
+0e 10 1f 00 00 f2 0f 1f 00 1f 02 d2 00 f1 3b 60 10 79 20 03 01 00 50 05 ce 01 b2 03 05 00 07 60 
+c4 2b 00 70 05 96 0d c8 03 1d 02 8f 60 a0 ac 00 4d 05 a2 0b ce 03 20 03 7f 60 6d b0 00 4a 05 b3 
+08 c6 03 23 04 ac 60 3e 7a 00 27 05 c8 05 d7 03 21 05 d8 70 23 b2 00 50 05 e1 04 19 03 20 09 99 
+d0 21 84 00 50 05 d7 03 f5 03 21 09 a5 d0 12 3a 00 50 05 d2 02 fa 03 20 09 d9 e0 00 6a 00 fb 05 
+d4 01 85 03 6f 0a 18 3b 24 37 31 3e                                                             
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  293,   0,    383,    0, 20, 2026,05,13, 22,35,08,   23.27320, -151.77341,    5
+58 01 1e 17 fd 00 0e 14 38 10 af 00 01 2e 00 8b 24 00 00 00 24 92 49 24 92 49 24 80 00 00 00 00 
+10 00 f0 1f 1f 1f 10 e2 00 f1 00 00 0e 2f 10 f0 10 f1 f1 f0 10 f0 1f 01 00 0e 3e 01 f1 f0 1f 01 
+0f 1f 01 f0 10 f0 00 1f 01 f0 00 1f 1f 01 f1 f0 00 1f 01 f0 00 01 f1 f0 1f 00 1f 01 f0 00 01 f1 
+e2 f0 1e 2f 01 f0 00 01 f0 00 00 1f 00 00 00 1f 00 00 1f 00 00 00 00 1f f1 1f 00 00 1f f1 1f 00 
+00 1e 2f 00 00 00 00 01 f0 00 00 00 01 f0 00 00 00 01 ff 2f 00 00 00 1e 11 f0 00 01 e2 e1 01 f0 
+00 1f f2 e1 1f 0f 2f 00 01 e2 e2 e2 e2 f0 00 f2 f0 00 00 1e 2e 2f 3b e2 00 6a 07 22 00 25 00 01 
+00 01 01 c4 02 bf 05 dd 05 d4 03 f1 04 50 04 4c 00 00 04 19 0e 80 00 f0 00 fb 00 65 00 63 c4 28 
+19 52 8b 6b 00 62 72 df 8d 32 00 00 2c bf 00 10 00 63 c4 23 24 04 23 b3 00 6e 23 f7 24 3b 8a 7d 
+23 b4 24 24 8a 81 01 c4 00 94 00 00 ff f7 00 00 07 11 f8 e0 01 7e 00 23 02 7b fd fd 11 30 00 42 
+3b 24 3a 34 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  334,   0,    384,    0, 21, 2026,05,13, 22,35,21,   23.31313, -151.80786,    3
+58 01 47 17 fd 00 0e 15 78 10 e5 00 01 2e 00 00 00 00 00 30 44 92 49 24 92 92 49 00 00 00 00 00 
+12 00 03 ff 00 02 fe 01 ff 02 fd 00 02 ff 00 ff 3f 02 fe 10 10 2d f0 1f 00 0f 0f 0f 3e 0f 20 ff 
+2f 01 e1 20 d0 4f e2 ff 12 e1 20 e0 20 e1 21 c1 00 2f f2 ff 03 f1 13 b1 4e 12 f3 c2 0f 21 e0 1e 
+03 e3 f3 e0 2e 12 f0 f1 f1 20 f1 20 e3 ff 23 c0 30 d4 d3 e4 d0 f3 00 12 ce 5e f3 0d 23 c0 3e f0 
+20 c4 e1 10 00 2e f3 f1 c3 01 11 d2 00 03 ef 16 fa 04 06 fb 00 00 07 f5 04 03 ff 01 fe 06 f7 04 
+04 01 fb 0a fc 01 fc 06 fc 08 f9 05 ff 01 01 ff 03 fd 01 00 fc 0a fa 02 ff 04 ff fd 04 05 f9 03 
+fd 04 fc 06 f7 09 fd 01 03 ff 09 f5 07 00 01 08 f8 04 f8 07 fd 06 fe ff 02 02 fd 05 ff 03 fc 00 
+07 fb 03 07 fa 0c f7 08 ff 02 00 09 3b 9a 10 20 00 00 09 00 24 10 ff ff eb 40 00 00 00 00 00 00 
+00 00 00 00 00 35 8f 68 c9 0a 1c fc 3b aa 10 20 00 00 09 00 24 2d 00 00 11 40 00 00 00 00 00 00 
+00 00 00 00 00 ef 04 f6 04 ee ff 23 3b ba 10 1d 00 00 09 00 8a 80 ff ff fb 20 00 00 00 00 00 00 
+00 00 00 00 00 7d 3f 10 c0 3b 24 37 32 3e                                                       
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  280,   0,    385,    0, 22, 2026,05,13, 22,35,32,   23.31313, -151.80786,    3
+58 01 11 17 fd 00 0e 16 14 11 0c 00 01 c8 00 00 76 00 00 0c 24 94 49 24 92 49 24 92 51 24 92 00 
+ef 20 e1 25 30 1f f2 f0 00 1e 01 00 01 e2 ff 3d 11 e0 02 f0 1f 0f 10 00 1f 0f 2e f2 2f e0 03 1c 
+00 00 ff 05 ff fd 00 ff 04 ff fe fe 08 f9 01 02 ff 11 f0 f2 e1 01 f0 00 f1 01 ff 11 f0 01 e1 00 
+f1 00 01 f0 f2 e1 1f 00 00 f2 e2 f0 f1 00 1f f1 1f f1 01 fd 5d 04 fd 00 01 0e 5f e0 f1 f0 1f 11 
+e1 f2 2f d2 ff 1f 00 03 1c 0f 4e f0 21 c3 0e f3 f1 0d 3f e2 1f 0f 2f 01 f0 1f f0 10 00 1e 11 f0 
+00 2c 22 c1 02 1b 12 1e 01 01 e2 f1 f0 f2 ff 11 f0 00 1e 2f 00 00 1f 00 00 01 f0 1e 10 00 00 00 
+0f 10 01 f0 1f 01 f0 10 a1 5f 2e 2e 2e 2a 06 e1 2d 2b f5 02 d2 92 5f 10 ff fb 01 05 00 00 fa 01 
+05 00 01 f8 03 03 01 00 0a 14 1f 10 ec 06 f1 f1 91 50 1e 11 f0 fc 04 1f 10 f1 0f 01 00 b0 41 f0 
+2e 01 f1 d3 fd 4f 1f 10 0e e4 1f ee 50 d0 0f 5d f0 13 eb 3b 24 3c 37 3e                         
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  325,   0,    386,    0, 23, 2026,05,13, 22,35,42,   23.27994, -151.80786,    3
+58 01 3e 17 fd 00 0e 17 24 11 39 00 01 02 00 72 b9 00 00 06 49 24 d3 6d 24 92 00 00 00 00 00 00 
+fa fe ff 03 01 00 fd 04 fb eb fb 11 01 09 00 01 f8 06 ff ff fc f8 b0 ec f8 52 d0 e1 13 25 f6 2d 
+f2 14 06 e3 08 12 fa 08 09 e1 02 e7 1f 1a f9 e7 05 dd 25 0a 03 ec 07 e5 21 fc fe f8 e0 01 22 0f 
+ed 09 cd d8 25 29 1c ac fe 5c 11 f0 89 ab 63 e7 04 a0 0a fd 90 1d f4 d0 59 07 4f e1 f9 60 59 02 
+cf af ff 10 60 fe 3f bb c2 59 29 fa c8 c2 12 f7 6c e0 f7 dc 21 2e e1 19 05 90 05 fa 5f bb fb a0 
+1f 01 c0 35 fb bf cf 08 20 2a fd 7f d0 f2 10 a1 fd 2f e2 0e d0 44 fa af d0 fa 50 04 ff 40 57 fe 
+8f f8 fc f0 61 fc 40 55 fe 80 04 05 10 14 ed 00 44 08 a0 42 02 1f c0 f5 80 8a 00 f0 32 fe a0 2b 
+d9 11 ea db a8 6a 41 f2 f0 02 ed d2 23 10 fd fe 00 0d 01 fe 04 a8 2f 23 01 ed 01 f7 14 ef 0a ef 
+14 14 ff fc f7 08 10 0a f1 f0 25 d8 05 17 f4 03 e6 04 24 c0 d8 43 17 08 0e f9 d4 d9 2f f6 0a 25 
+08 fe e3 b3 31 0e f7 11 e9 2c fe e9 e0 30 ff ee 11 e0 ff f9 11 14 0f fa ff 0f b6 17 25 fc 06 f4 
+3b 24 38 39 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  232,   0,    387,    0, 24, 2026,05,13, 22,35,52,   23.27320, -151.77341,    6
+58 00 e1 17 fd 00 0e 18 25 10 dc 10 00 c7 00 2d 17 ff ff d4 49 24 92 49 22 00 00 00 00 00 00 00 
+d4 2a 06 06 d5 2c 1b fa 00 ee 0b 03 00 fa 19 05 e6 fb 08 04 fc fa 04 02 f9 f7 07 fa 12 ed f3 1b 
+02 f4 0b eb 0f 01 04 06 fa 07 fe 05 04 f9 f7 06 02 fa 04 00 02 04 00 ff fc 03 f6 05 ff 03 14 e7 
+0b f9 f4 fe 12 fb 09 03 e2 11 0a f0 fd 0f 01 01 02 00 04 fe fe fd fe 02 fe f5 fb 15 fe fe 02 fc 
+05 02 f2 07 fe 04 04 ff 02 fd 02 f8 ff 04 08 fe fc 01 01 02 fe ff fc fe 0c f1 0a ff 02 fe fc 06 
+02 fd fd 03 01 fe fe f6 08 05 03 f6 ff 0d 00 ff fc 01 f0 15 ff fd 00 0a f8 04 f5 0b f8 ff f5 fc 
+08 10 f3 03 03 09 f9 02 fd ff 02 ff 00 fb f7 05 01 03 05 fb 00 04 00 f5 11 ff ff 00 03 fc f7 06 
+3c e1 50 3b 24 3a 3a 3e                                                                         
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    388,    0, 25, 2026,05,13, 22,36,00,   23.27994, -151.80786,    3
+58 01 46 17 fd 00 0e 19 34 11 41 00 01 b2 00 8d 74 00 00 00 29 24 92 49 12 49 24 92 49 24 80 00 
+00 00 0f 10 01 e0 01 f1 ff 00 01 fe 00 ff f8 05 07 01 03 0b 00 02 f0 fa 06 fb 04 06 01 fd 04 f9 
+02 0a fe 03 f6 fc ff 01 06 02 f7 00 01 ff 02 fe ff ff 01 fd 01 fe 04 03 fd 00 fd f4 05 03 06 f8 
+f6 15 06 ff e2 ec 12 04 0d ff fe 05 eb fa 1a fd ee 0a 07 fb f7 11 fb ff f3 11 ff 03 f8 f5 08 f8 
+10 01 f9 ff 01 07 02 03 16 0e da f8 f7 ff 07 00 fc fb 0a 09 fa fa ea 05 0c ff 2a 06 ea f5 fb f9 
+fe 06 fe 07 eb 15 fa 06 07 05 07 0e d7 fa 15 0c 0d ed e9 0d 1e f6 f5 10 f3 fe 02 01 ee 0f 06 02 
+fb ff fe fc 07 fc 01 ff 4d 1e 10 f0 3e 3e 3d 4c e5 ef 1f 02 11 f1 a7 0e 0b 03 a3 20 f1 ee 42 ff 
+00 2f 1e 00 2f 10 1c 3f 01 01 0e 1f 0e 7e c1 f0 5c 02 e5 df 0f 2f 1f 22 39 f1 1f 02 00 f0 2a 42 
+d0 2e 5c 11 fe 01 0e 21 e0 3e 01 e2 01 d4 de 04 0c 21 20 df e5 d0 31 d0 f0 0f 10 10 0f 33 a1 0f 
+2e 04 0e f7 ad 1e 31 fe 11 12 ef e0 2e 2e 3f 00 00 0f 1f 10 3e fe 40 e2 d0 01 02 e1 ff 1f 2e 00 
+f3 0f f3 0f e0 2f f0 10 3b 24 3b 3d 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  293,   0,    389,    0, 26, 2026,05,13, 22,36,22,   23.32574, -151.78937,    3
+58 01 1e 17 fd 00 0e 1a 95 11 19 00 02 02 00 0c 16 ff ff fe 24 92 49 24 92 49 24 92 49 24 92 49 
+2d 2f 1f 02 e0 1f f2 00 0e 2f 01 0f 1f 01 f1 f0 01 f1 f1 f1 f0 1f 01 0f 10 e2 0f 1f 1e 3d 20 f0 
+2e 00 10 f0 1f 02 d3 d2 f2 d2 0f 01 f1 0f 1f 01 f0 10 f0 02 e0 02 e0 01 f1 00 f0 1f 1f 01 0f 1f 
+01 f1 f1 0e 20 0e 2f 1f 10 e2 0e 4c 2f 10 0f 01 0f 01 0f 00 10 0f 1e 20 0f 01 0f 00 2e 1f 1f 1f 
+2e 00 10 f1 f0 10 f1 f1 00 0f 01 f0 10 f0 1f 10 f0 2e 1f 01 0f 02 e0 10 e2 00 0e 20 0f 01 f1 0f 
+02 e1 e3 e1 e2 0f 10 f0 1f 1f 2e 01 0f 1f 1f 10 f1 f1 f1 f0 10 f1 e2 00 f1 f0 2d 20 f1 0f 00 2e 
+1e 3e 01 f0 1f 1f 10 f0 10 f1 f1 f0 01 0f 1f 1f 1f 1e 3e 01 f1 f1 f2 d1 1f 1f 10 f0 1f 1f 10 e2 
+f0 01 00 f1 f0 1f 10 e2 f1 f1 f0 10 e2 f1 f1 f1 f0 1f 01 0f 01 f0 10 f0 1f 01 f1 f1 0e 12 e1 f0 
+1f 1f 01 0f f2 0f 01 0f 01 0f 00 10 f0 2e 00 1f 01 0f 00 1f 1f 01 f0 02 ef 3e 1f 00 10 f1 f0 02 
+3b 24 32 34 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  280,   0,    390,    0, 27, 2026,05,13, 22,36,35,   23.31897, -151.75488,    3
+58 01 11 17 fd 00 0e 1b 96 11 0c 20 01 e7 00 09 09 ff ff fe 24 92 49 24 92 49 24 92 49 24 92 48 
+01 f1 f1 f0 10 e3 d2 f1 f0 1f 1f 1e 2f 1f 1f 01 0f 01 f0 1f 1f 02 d3 e0 1e 11 1e 00 1f 01 f1 f0 
+10 f0 1f 01 0f 01 f0 2d 11 00 f0 1f 1f 10 e2 f1 f1 f1 f1 f1 0f 1e 3e 1f 1e 20 f1 f1 f0 2e 01 f1 
+f0 2e 01 f1 f1 f0 10 0f 10 e2 0f 10 f1 0f 01 f1 00 f1 0f 00 11 e1 f0 02 e1 f1 0f 02 e0 1f 10 f1 
+00 f1 00 e3 e1 f0 10 00 e3 ff 1f 10 f0 1f 2f f0 10 f1 f1 f1 0f 1f 10 f1 f0 10 0f 10 f1 0f 10 00 
+e2 f1 1e 00 2e 10 f2 d2 0f 1f 1f 11 e0 1f 10 f0 11 e1 f0 10 f1 0e 3f f1 f1 f1 0f 1f 1f 1f 10 f1 
+f1 0f 02 e1 0f 10 0f 1f 1f 10 0e 20 0e 21 d3 ff 00 1f 10 f1 f1 1d 2f 2e 00 2d 3e 00 10 0f 1f 2e 
+00 10 00 e2 00 f0 10 0f 01 0f 10 f0 10 f2 e0 2d 2f 1f 1f 1f 01 0f 2d 21 ef 20 0e 2f 10 f1 f1 00 
+f0 10 e3 e0 1f 10 f0 1f 1e 3e 10 f0 1f 2d 20 0e 2f 1f 10 3b 24 35 33 3e                         
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    391,    0, 28, 2026,05,13, 22,37,04,   23.27320, -151.77341,    3
+58 01 46 17 fd 00 0e 1c a5 11 41 00 01 62 00 41 46 00 00 01 29 14 4a 29 24 89 49 24 80 00 00 00 
+32 d0 e1 11 00 02 f2 f0 01 01 02 01 02 02 03 01 06 f6 ff 00 09 10 ed 00 08 f1 ed 1a f3 0d 1b fe 
+15 f1 e6 f6 05 f4 01 f4 eb 13 42 02 e1 1f 1f eb 01 00 02 02 04 06 00 00 04 f8 04 03 f9 03 fb 01 
+33 e4 d0 13 a2 e0 11 ff 3f de e3 d2 1e 1f 5f f5 04 01 03 fa ff ff ff 02 0d fa f9 fe fe fd 08 00 
+31 90 ce ff 22 eb 23 3e 03 0e 12 f5 fb 08 03 f9 fa ff fa f8 07 f6 02 fd 01 01 ff fe 02 02 01 09 
+f3 0d 03 f1 07 fd 03 04 0d fd f0 04 fd fd fd fc 04 02 fd ff 05 00 03 03 09 fd 05 f6 00 00 00 00 
+04 00 0a fa f9 01 fa 01 ff fd ff ff 04 fe 05 0b 04 fd f9 03 0d fc fa f7 6b db 3b 11 e0 1f 74 00 
+9f d1 ef 3e e2 4b 15 df ff 03 01 fe fb 02 ff fe 00 ff fd f8 03 05 02 fe 03 ff 03 00 fe 00 ff 01 
+01 00 01 03 00 01 08 0d f3 fb 04 08 f3 0a 00 09 0b f7 0b 03 fa 04 f0 f1 05 12 f1 05 f4 0e fa f5 
+03 00 fd ff 03 fd 03 fe 01 02 00 00 05 fd 13 07 fb 0c fb 04 03 f8 fb f0 09 f9 0d ee ff fd 04 ee 
+14 fb 07 f8 fd fd 01 03 3b 24 32 36 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  325,   0,    392,    0, 29, 2026,05,13, 22,38,07,   23.28578, -151.75488,    4
+58 01 3e 17 fd 00 0e 1d a6 11 39 16 01 72 00 50 b3 00 00 07 45 24 92 44 a2 4a 28 a2 50 00 00 00 
+01 06 fd fe fa 08 00 ff fc 00 fb 02 fe 06 05 fe cf fd 20 0f 00 40 0e 5e fd 01 07 fd 03 f9 06 00 
+ff 01 fe ff 0c 0b f6 0a fb fd 00 f5 06 fb fd 07 f8 fd 0b 03 f7 fe 09 fb 08 02 f9 f7 00 fb 02 fd 
+04 00 00 04 ff 00 05 01 fd 0d ff fa 01 fb fb fe 03 fb 06 fe 02 04 02 fc 02 02 01 ff fe 0a f9 fd 
+09 01 fa fb 03 ff fd 03 01 fa 06 07 05 f8 05 fb fc f6 03 04 ff fa 00 fd 08 fd 01 fb 03 ff 02 00 
+fd 03 00 01 fc ff 03 01 bc 0d 2e 00 d2 21 01 20 0f 00 f2 2e 2f 2f 02 02 03 02 0e f5 09 f8 f6 00 
+00 fe 01 ff 02 03 fb 09 b1 ef 2d 1d 21 e2 3b 24 1d 30 4f 2a f3 f0 f3 fe 4c 72 af d2 3d b5 cc 3a 
+fe 13 01 f6 07 05 f6 07 f9 fc 03 fe fb 04 fb 03 10 5f 0d f1 f1 e2 11 fd 00 02 01 06 fd 05 08 03 
+0b f6 03 fa f6 f8 04 01 1c e1 12 c5 43 7e d9 eb 01 03 08 06 01 f8 01 ff fd fd fd fd ff 03 00 01 
+0d 3b 50 30 f0 e1 90 f1 01 0d 12 d1 11 32 5f cd 01 00 04 fe 04 05 ff f9 02 f6 06 f8 03 05 fd 08 
+3b 24 37 38 3e                                                                                  
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  249,   0,    393,    0, 30, 2026,05,13, 22,38,21,   23.28578, -151.75488,    4
+58 00 f2 17 fd 00 0e 1e a7 10 ed 2d 01 16 00 5e 2c 00 00 05 44 a4 4a 25 22 8a 48 00 00 00 00 00 
+ff 07 fe fe 01 08 05 03 05 fe f9 07 fd fb fe fd db 0f 2e f2 0f 2e 1f 10 f0 f1 f1 1e 10 10 ef 0e 
+02 00 fe 00 00 00 03 fd 01 02 00 fd fd 09 00 01 06 05 fc fe 05 06 01 fd f8 03 fa ff 02 fb fd ff 
+e2 e1 0f 2f 11 1e c4 11 1e f2 ef 11 00 12 05 23 f5 ff 00 ff 00 0d ff fd 12 f4 01 fe f8 fe fa 07 
+e2 ed e6 ed d4 2b 21 01 c3 ff 10 0f 00 1f 2f 31 fd 00 03 fd 08 0e 01 fa ff ff ff 04 0d fd f6 0c 
+fa fa f2 fe 03 fc 01 fb 01 ff 03 00 02 fd 02 fd 13 ef 13 df 34 e1 10 ff 03 00 fa fe ff 02 ff ff 
+01 03 02 f3 0e fb 03 fd 01 2f d2 c3 02 1b 02 30 00 ff 03 fe 00 00 02 05 02 0a fc f9 fe fc ff fc 
+02 ff fd 01 ff 01 03 05 06 fd fd 08 fc 05 06 fe 0c fd f7 f1 3b 24 3a 34 3e                      
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    394,    0, 31, 2026,05,13, 22,40,01,   23.28578, -151.75488,    4
+58 01 46 17 fd 00 0e 1f b5 11 41 00 01 52 00 89 0a 00 00 00 29 24 92 29 14 91 45 24 00 00 00 00 
+1f e1 2f f2 ff 11 f1 1b 06 fd 00 02 01 00 fe 04 f5 08 fe 08 02 f6 0f e8 fb 0d 0e f1 0d f7 04 05 
+fe f2 fe 10 f3 06 fc ff 01 f6 0b 00 02 fe 00 01 ff 02 fe 01 00 ff fe 01 00 01 00 03 ff fe 04 ff 
+f8 0b fd fb 04 fb 04 02 ff ff 02 fa 08 fd 01 fb 04 ff 02 fe 01 02 fd 02 fd 01 ff 00 05 fb 03 fd 
+02 00 00 04 f8 05 01 02 fb 06 fa fd 05 01 ff 06 f4 02 03 00 ff 03 00 02 b3 09 43 ff 1e f0 32 cf 
+0d fe f6 ff 02 0c f2 05 fd ff 00 01 fe 01 00 03 fd 01 ff 02 00 01 fd fd 0b fb fb 02 01 01 06 fe 
+9f 22 fd 42 dc 43 ee 5d 04 fa 02 fc 09 f8 03 00 01 05 fb f5 0c fd 02 fd 00 01 fe 06 fb 02 04 00 
+f7 03 00 0d f2 ff 03 04 f4 0b fc 03 fd 00 04 fa 02 03 fc 06 fd 01 ff fc 2f 11 1f 0d 5d 0e 6b 10 
+00 02 fd ff 03 fe ff 02 fe 02 f6 06 05 ff fd 02 10 0e 00 2f 0f 0f f5 49 ff 04 03 f3 0f fc 00 07 
+f7 08 fd ff fc fc 08 fc 0b f6 02 fb 08 f9 00 05 fd 00 ff 03 fc 06 fb 00 01 03 fe 03 fd 06 fe fb 
+05 01 f1 1f ea 01 fc 07 3b 24 3d 3e 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  333,   0,    395,    0, 32, 2026,05,13, 22,40,12,   23.31897, -151.75488,    8
+58 01 46 17 fd 00 0e 20 b6 11 41 15 01 92 00 8a 71 00 00 02 44 a4 52 44 92 52 45 12 4a 40 00 00 
+06 f4 08 fd 02 fd 01 00 0a f3 00 03 ff 07 f5 05 5a 2c 43 de 0f 11 10 2b 01 01 00 f1 f1 10 c6 de 
+02 03 fc 04 f9 05 ff 03 fd 00 01 03 04 f2 0c f8 04 04 f4 0b f7 01 0c f4 02 09 f6 00 02 04 fe 00 
+1d c5 d3 c5 f1 e0 02 f1 01 ff 00 fe fe fd 07 00 fd 02 fe 04 fe 03 f8 03 04 ff ff fe 08 f6 07 fc 
+02 00 f9 0a f9 03 03 fb fe 05 04 fc fe 00 02 fe fa 09 01 ff f6 08 fc 04 2f d2 d5 b0 4d 3b 4e 3c 
+c2 f1 f2 ef 04 0f f3 e1 f1 00 01 e2 00 f1 2d 22 d4 0d 0b 43 a6 c2 3a 6c 0f 21 e0 1f 3d 10 f0 5b 
+01 01 ff 00 03 03 f4 06 01 ff 00 00 01 00 ff 00 01 fd 0b f3 01 05 01 fe 00 fb 08 f9 03 02 fc fd 
+10 f9 f0 13 fb fd 05 f6 05 02 00 fb 06 fd 00 03 d3 d0 1d 4f 2d 01 01 ff 01 01 00 ff 04 fd 01 08 
+f5 03 fd fe ff 09 fa 02 fe 4e 2c 5e 2f e1 d2 10 3d 2e f1 2b 4c 11 10 f1 d3 c6 c0 5b 2d 2d 4d 20 
+0e 11 1d 2f 02 f4 a1 02 fb 08 fa 04 fe 02 fb 05 fb 01 02 fe 06 f9 06 fb 01 04 fc 02 fd 04 05 f7 
+06 ff f8 0c f5 0e f3 02 3b 24 37 3d 3e                                                          
+#          SN Cycle  Size IMEI   MOMSN MTMSN PID                  Date         Lat         Lon   Err
+SBD,     6141,   14,  324,   0,    396,    0, 33, 2026,05,13, 22,40,18,   23.28578, -151.75488,    3
+58 01 3d 17 fd 00 0e 21 b7 10 cd 2e 01 06 00 8c 38 00 00 00 24 a2 51 29 14 4a 40 00 00 00 00 00 
+e3 1f f1 2d 12 ef 10 f3 d1 e3 f0 00 10 fe 1f 4d 1f 01 f1 f0 01 0e 79 14 ff 03 f7 04 05 01 fb fe 
+04 fc 00 05 fa 01 01 ff 1e 3e 01 0e 4e f1 e4 ff f1 0f 01 1f f1 2c 6f fb 01 02 ff 00 06 02 f4 11 
+f3 03 00 fb 04 fc 04 ff 2c 3e 11 c3 2f b5 ff 2d 3f e2 f1 00 f0 01 00 1d 02 01 fe 02 06 02 f5 04 
+02 fb 07 fe 04 f1 0f ff f6 00 02 01 ff 01 fe 01 00 03 fc 01 00 00 00 00 2e e3 2d f1 4e e3 e0 2d 
+02 fc 01 ff 06 fc 01 00 01 ff fc 0a f7 04 fd 00 5b 3e 00 1f 11 c3 00 1d 4f d2 10 e5 e3 a2 c4 e2 
+ff 01 ff ff 00 02 01 06 fa fb 08 fb 04 01 fc 07 04 f2 02 fa 3b 02 00 18 fe 0d e3 35 3c a5 89 9b 
+42 09 72 03 16 1d 05 08 25 2a 2f 10 3b 42 10 53 31 96 63 f5 00 00 60 73 20 01 69 60 6d b0 02 d1 
+60 61 44 04 3a 60 54 d6 05 a2 60 4b 30 07 0b 60 43 aa 08 74 60 3e 7a 09 dc 60 34 a5 0b 45 60 2d 
+1c 0c ad 60 27 df 0e 16 60 24 ea 0f 7f 60 24 67 10 e7 60 24 0a 10 e8 30 24 0d 13 ba 40 24 04 3b 
+24 39 3c 3e                                                                                     
