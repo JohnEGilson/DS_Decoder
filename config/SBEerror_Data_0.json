@@ -1,0 +1,19 @@
+{
+  "Num_Err": { "type": "U8", "description": "Index width of Error type"},
+  "Num_Pha": { "type": "U8", "description": "Index width of Phase"},
+  "DsdWake": { "type": "U8", "description": "Sum SBE error count during Descending phase: Failed to wake up correctly"},
+  "DsdPReq": { "type": "U8", "description": "Sum SBE error count during Descending phase: Failed to reply to pressure request"},
+  "DsdPars": { "type": "U8", "description": "Sum SBE error count during Descending phase: Failed to parse SBE reply"},
+  "DsdCRpy": { "type": "U8", "description": "Sum SBE error count during Descending phase: While in CP-mode, SBE failed to send a sufficiently long string"},
+  "DsdCPrs": { "type": "U8", "description": "Sum SBE error count during Descending phase: While in CP-mode, Float could not parse the SBE reply"},
+  "DrfWake": { "type": "U8", "description": "Sum SBE error count during Drift phase: Failed to wake up correctly"},
+  "DrfPReq": { "type": "U8", "description": "Sum SBE error count during Drift phase: Failed to reply to pressure request"},
+  "DrfPars": { "type": "U8", "description": "Sum SBE error count during Drift phase: Failed to parse SBE reply"},
+  "DrfCRpy": { "type": "U8", "description": "Sum SBE error count during Drift phase: While in CP-mode, SBE failed to send a sufficiently long string"},
+  "DrfCPrs": { "type": "U8", "description": "Sum SBE error count during Drift phase: While in CP-mode, Float could not parse the SBE reply"},
+  "AsdWake": { "type": "U8", "description": "Sum SBE error count during Ascending phase: Failed to wake up correctly"},
+  "AsdPReq": { "type": "U8", "description": "Sum SBE error count during Ascending phase: Failed to reply to pressure request"},
+  "AsdPars": { "type": "U8", "description": "Sum SBE error count during Ascending phase: Failed to parse SBE reply"},
+  "AsdCRpy": { "type": "U8", "description": "Sum SBE error count during Ascending phase: While in CP-mode, SBE failed to send a sufficiently long string"},
+  "AsdCPrs": { "type": "U8", "description": "Sum SBE error count during Ascending phase: While in CP-mode, Float could not parse the SBE reply"}
+}
