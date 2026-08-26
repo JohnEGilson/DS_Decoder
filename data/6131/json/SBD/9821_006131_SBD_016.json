@@ -1,0 +1,34 @@
+{
+  "sbd_iridium_position_summary": [
+    { "source": "SBD", "TIME": "2026-01-18T19:58:21Z", "JULD": 27776.83219, "momsn": 284, "LATITUDE_iridium": -42.84625, "LONGITUDE_iridium": 112.88353, "error_iridium": 9000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T19:58:35Z", "JULD": 27776.83235, "momsn": 285, "LATITUDE_iridium": -42.84625, "LONGITUDE_iridium": 112.88353, "error_iridium": 10000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T19:58:43Z", "JULD": 27776.83244, "momsn": 286, "LATITUDE_iridium": -42.84625, "LONGITUDE_iridium": 112.88353, "error_iridium": 11000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T19:58:56Z", "JULD": 27776.83259, "momsn": 287, "LATITUDE_iridium": -42.89524, "LONGITUDE_iridium": 112.90259, "error_iridium": 21000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T19:59:19Z", "JULD": 27776.83286, "momsn": 288, "LATITUDE_iridium": -42.88569, "LONGITUDE_iridium": 112.94772, "error_iridium": 18000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:00:02Z", "JULD": 27776.83336, "momsn": 289, "LATITUDE_iridium": -42.89524, "LONGITUDE_iridium": 112.90259, "error_iridium": 13000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:00:15Z", "JULD": 27776.83351, "momsn": 290, "LATITUDE_iridium": -42.87265, "LONGITUDE_iridium": 112.88353, "error_iridium": 12000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:00:28Z", "JULD": 27776.83366, "momsn": 291, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 11000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:00:55Z", "JULD": 27776.83397, "momsn": 292, "LATITUDE_iridium": -42.87265, "LONGITUDE_iridium": 112.88353, "error_iridium": 8000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:01:03Z", "JULD": 27776.83406, "momsn": 293, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 8000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:01:15Z", "JULD": 27776.83420, "momsn": 294, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 7000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:01:28Z", "JULD": 27776.83435, "momsn": 295, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 6000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:01:38Z", "JULD": 27776.83447, "momsn": 296, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 5000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:01:50Z", "JULD": 27776.83461, "momsn": 297, "LATITUDE_iridium": -42.85655, "LONGITUDE_iridium": 116.91588, "error_iridium": 338000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:02:04Z", "JULD": 27776.83477, "momsn": 298, "LATITUDE_iridium": -42.89168, "LONGITUDE_iridium": 112.79325, "error_iridium": 4000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:02:11Z", "JULD": 27776.83485, "momsn": 299, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 4000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:02:21Z", "JULD": 27776.83497, "momsn": 300, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 4000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:02:33Z", "JULD": 27776.83510, "momsn": 301, "LATITUDE_iridium": -42.85577, "LONGITUDE_iridium": 112.83841, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:02:39Z", "JULD": 27776.83517, "momsn": 302, "LATITUDE_iridium": -42.88218, "LONGITUDE_iridium": 112.83841, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:03:00Z", "JULD": 27776.83542, "momsn": 303, "LATITUDE_iridium": -42.84625, "LONGITUDE_iridium": 112.88353, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:03:14Z", "JULD": 27776.83558, "momsn": 304, "LATITUDE_iridium": -42.87265, "LONGITUDE_iridium": 112.88353, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:03:39Z", "JULD": 27776.83587, "momsn": 305, "LATITUDE_iridium": -42.84625, "LONGITUDE_iridium": 112.88353, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:03:47Z", "JULD": 27776.83596, "momsn": 306, "LATITUDE_iridium": -42.85577, "LONGITUDE_iridium": 112.83841, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:03:57Z", "JULD": 27776.83608, "momsn": 307, "LATITUDE_iridium": -42.87265, "LONGITUDE_iridium": 112.88353, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:04:05Z", "JULD": 27776.83617, "momsn": 308, "LATITUDE_iridium": -42.87265, "LONGITUDE_iridium": 112.88353, "error_iridium": 3000, "sbd_contains_cycle": 16 },
+    { "source": "SBD", "TIME": "2026-01-18T20:04:32Z", "JULD": 27776.83648, "momsn": 309, "LATITUDE_iridium": -42.85577, "LONGITUDE_iridium": 112.83841, "error_iridium": 3000, "sbd_contains_cycle": 16 }
+  ],
+  "sbd_weighted_iridium_position": [
+     { "JULD": 27776.83442, "LATITUDE": -42.868, "LONGITUDE": 112.854, "POSITION_ERROR_ESTIMATED": 1392,
+       "POSITION_ERROR_COMMENT": "A subset of the available Iridium Positions were used that are deemed 'independent': 8; Error was computed as the square root of the inverse sum of the weights, where each weight is the inverse square of the individual measurement error: Weights=1/(error^2)" } 
+  ]
+}
