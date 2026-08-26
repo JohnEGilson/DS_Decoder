@@ -2,7 +2,7 @@
 <p>DS Decoder is a free and open-source decoder (GPL-3.0) to convert raw Deep SOLO telemetry into human readable .json files</p>
 
 <h2>Acknowledgements</h2>
-<p>DS_Decoder code uses an existing codebase as a foundational starting point, extending it to be used with a related Argo float model.</p> 
+<p>DS_Decoder code uses an existing codebase as a foundational starting point, modifying it to be used with a related Argo float model.</p> 
 <p>[Original Project Name]: https://github.com/Greenwood1981/S2BGC_Decoder</p>
 
 <h2>Requirements</h2>
