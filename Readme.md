@@ -203,8 +203,8 @@ fd fe ff ff 08 01 fe 01 00 fd f7 04 fe 06 03 f8 04 01 01 fc 04 02 00 fd 01 03 fb
     "target_surface_second": 2700,
     "seek_periods": 4,
     "seek_minute": 120,
-    "TurnAround_timeTurn":  240,
-    "TurnAround_timeCheck":   60,
+    "turnaround_max_minute":  240,
+    "turnaround_check_interval_minute":   60,
     "ctd_pres": { "gain":   10, "offset":  10},
     "ctd_temp": { "gain": 1000, "offset":   5},
     "ctd_psal": { "gain": 1000, "offset":   1}
