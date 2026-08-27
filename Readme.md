@@ -42,25 +42,25 @@ DS_Decoder/
 │  ├─ 6131/ (Following the example data provided)
 │  │  ├─ 6131_meta.json   (float specific meta info added near the top of each .json file)
 │  │  ├─ hex
-│  │  │  ├─ 6131_000.hex  (hex files are placed in this subdirectory after being processed)
-│  │  │  ├─ 6131_001.hex
+│  │  │  ├─ 6131_0000.hex  (hex files are placed in this subdirectory after being processed)
+│  │  │  ├─ 6131_0001.hex
 │  │  ├─ json
 │  │  │  ├─ L0
-│  │  │  |    6131_L0_000.json (decoded .json file)
-│  │  │  |    6131_L0_001.json (decoded .json file)
+│  │  │  |    6131_L0_0000.json (decoded .json file)
+│  │  │  |    6131_L0_0001.json (decoded .json file)
 │  │  │  ├─ SBD
-│  │  │  |    6131_SBD_000.json (decoded .json file created from SBD_DS.cpp)
-│  │  │  |    6131_SBD_001.json (decoded .json file created from SBD_DS.cpp)
+│  │  │  |    6131_SBD_0000.json (decoded .json file created from SBD_DS.cpp)
+│  │  │  |    6131_SBD_0001.json (decoded .json file created from SBD_DS.cpp)
 │  │  │  ├─ L1
-│  │  │  |    6131_L1_000.json (decoded .json file created from L0toL1_DS.cpp)
-│  │  │  |    6131_L1_001.json (decoded .json file created from L0toL1_DS.cpp)
+│  │  │  |    6131_L1_0000.json (decoded .json file created from L0toL1_DS.cpp)
+│  │  │  |    6131_L1_0001.json (decoded .json file created from L0toL1_DS.cpp)
 │  ├─ 6xxx/
 │  │  ├─ 6xxx_meta.json
 │  │  ├─ hex
 │  │  ├─ json
 ├─ incoming/
-│  ├─ 6131_002.hex        (unprocessed hex files)
-│  ├─ 6131_003.hex
+│  ├─ 6131_0002.hex        (unprocessed hex files)
+│  ├─ 6131_0003.hex
 ├─ log/                   (daily log files are generated and placed in this subdirectory)
 ├─ src/                   (Decoder c++ source code)
 </pre>
