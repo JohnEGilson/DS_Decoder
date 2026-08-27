@@ -454,9 +454,9 @@ int main( int argc, char* argv[] ) {
             ModOneConfig("Toff",Doc_L0.at("ARGO_Mission")["ctd_temp"]["offset"],unit,desc);
             ModOneConfig("Pgain",Doc_L0.at("ARGO_Mission")["ctd_pres"]["gain"],unit,desc);
             ModOneConfig("Poff",Doc_L0.at("ARGO_Mission")["ctd_pres"]["offset"],unit,desc);
-            if ( Doc_L0[ "ARGO_Mission" ].contains("TurnAround_timeTurn") ) {  // new in V2 and beyond
-              ModOneConfig("tmTurn",Doc_L0.at("ARGO_Mission")["TurnAround_timeTurn"],unit,desc);
-              ModOneConfig("tmChk",Doc_L0.at("ARGO_Mission")["TurnAround_timeCheck"],unit,desc);
+            if ( Doc_L0[ "ARGO_Mission" ].contains("turnaround_max_minute") ) {  // new in V2 and beyond
+              ModOneConfig("tmTurn",Doc_L0.at("ARGO_Mission")["turnaround_max_minute"],unit,desc);
+              ModOneConfig("tmChk",Doc_L0.at("ARGO_Mission")["turnaround_check_interval_minute"],unit,desc);
 	    }
 	  }
 
@@ -1326,8 +1326,8 @@ void rewrite_json(std::string filename, const json &Doc_L0) { //sends in L0 json
           fout << "    \"seek_periods\": " << decimal(Doc_L0.at("ARGO_Mission")["seek_periods"],2,0) << "," << std::endl;
           fout << "    \"seek_minute\": " << decimal(Doc_L0.at("ARGO_Mission")["seek_minute"],3,0) << "," << std::endl;
 	  if ( Doc_L0.at("ARGO_Mission")["float_telemetry_format"] >= 2 ) {
-            fout << "    \"TurnAround_timeTurn\": " << decimal(Doc_L0.at("ARGO_Mission")["TurnAround_timeTurn"],4,0) << "," << std::endl;
-            fout << "    \"TurnAround_timeCheck\": " << decimal(Doc_L0.at("ARGO_Mission")["TurnAround_timeCheck"],4,0) << "," << std::endl;
+            fout << "    \"turnaround_max_minute\": " << decimal(Doc_L0.at("ARGO_Mission")["turnaround_max_minute"],4,0) << "," << std::endl;
+            fout << "    \"turnaround_check_interval_minute\": " << decimal(Doc_L0.at("ARGO_Mission")["turnaround_check_interval_minute"],4,0) << "," << std::endl;
 	  }
           fout << "    \"ctd_pres\": { \"gain\":" << std::setw(5) << Doc_L0.at("ARGO_Mission")["ctd_pres"]["gain"].get<int>() << ", \"offset\":" << std::setw(4) << Doc_L0.at("ARGO_Mission")["ctd_pres"]["offset"].get<int>() << "}," << std::endl;
           fout << "    \"ctd_temp\": { \"gain\":" << std::setw(5) << Doc_L0.at("ARGO_Mission")["ctd_temp"]["gain"].get<int>() << ", \"offset\":" << std::setw(4) << Doc_L0.at("ARGO_Mission")["ctd_temp"]["offset"].get<int>() << "}," << std::endl;

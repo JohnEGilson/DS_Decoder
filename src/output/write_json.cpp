@@ -397,8 +397,8 @@ void hexfile::write_JSON() {
     fout << "    \"seek_periods\": " << argo.num_seeks << "," << std::endl;
     fout << "    \"seek_minute\": " << decimal(argo.seek_time_max,3,0) << "," << std::endl;
     if ( argo.firmware_version >= 2 ) {
-      fout << "    \"TurnAround_timeTurn\": " << decimal(argo.TurnAround_timeTurn,4,0) << "," << std::endl;
-      fout << "    \"TurnAround_timeCheck\": " << decimal(argo.TurnAround_timeCheck,4,0) << "," << std::endl;
+      fout << "    \"turnaround_max_minute\": " << decimal(argo.TurnAround_timeTurn,4,0) << "," << std::endl;
+      fout << "    \"turnaround_check_interval_minute\": " << decimal(argo.TurnAround_timeCheck,4,0) << "," << std::endl;
     }
     fout << "    \"ctd_pres\": { \"gain\": " << decimal(argo.pres_gain,4,0) << ", \"offset\": " << decimal(argo.pres_offset,3,0) << "}," << std::endl;
     fout << "    \"ctd_temp\": { \"gain\": " << decimal(argo.temp_gain,4,0) << ", \"offset\": " << decimal(argo.temp_offset,3,0) << "}," << std::endl;
