@@ -31,6 +31,7 @@ int main( int argc, char **argv) {
   DS_PATH = ds_path;
 
   int sn = std::stoi(argv[1]);
+  //if (sn <= 6020 | sn == 6022 | sn == 6023 | sn == 6024 ) { return 0; }
   
   std::ifstream f(DS_PATH + "/config/config.json");
   if (!f) {
@@ -81,9 +82,9 @@ int main( int argc, char **argv) {
     ss.str("");
     ss.clear();
     if (cycle<0) {
-      ss << std::setw(4) << std::setfill('0') << std::to_string(sn) << "_-01.hex"; // DS_Decoder [sn] [cycle]
+      ss << std::setw(4) << std::setfill('0') << std::to_string(sn) << "_-001.hex"; // DS_Decoder [sn] [cycle]
     } else {
-      ss << std::setw(4) << std::setfill('0') << std::to_string(sn) << "_" << std::setw(3) << std::setfill('0') << std::to_string(cycle) << ".hex"; // DS_Decoder [sn] [cycle]
+      ss << std::setw(4) << std::setfill('0') << std::to_string(sn) << "_" << std::setw(4) << std::setfill('0') << std::to_string(cycle) << ".hex"; // DS_Decoder [sn] [cycle]
     }
     filter_filename = ss.str();
     ss.str("");
@@ -106,11 +107,10 @@ int main( int argc, char **argv) {
   std::sort(hexfiles.begin(),hexfiles.end());
   for (const std::filesystem::path &filepath : hexfiles) {
     //std::cout << "Processing main " << std::endl;
-    //std::cout << filepath.string() << std::endl;
     hexfile h(filepath.string());
     h.Decode();
-	h.archive();
-   	h.write_JSON();
+    h.archive();
+    h.write_JSON();
 
 //	if (h.cycle == -1 && config.contains("email") ) {
 //     string cmd = std::format("python3 {} 'DS #{:d} startup' '{}' '{}'", std::string(config["email"]["python_script"]), h.sn, h.jsonpath, std::string(config["email"]["alert_recipients"]) );
