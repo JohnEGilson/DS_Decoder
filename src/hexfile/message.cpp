@@ -68,10 +68,13 @@ std::istream & operator >> ( std::istream &is, message &m ) {
 			memcpy(&(p->header),&d[n],6);
 			p->size = p->header.nDat1 * 256 + p->header.nDat2;
 			std::copy(m.data.begin()+n,m.data.begin()+n+p->size,std::back_inserter(p->data)); // copy data to packet object
-			m.packets.push_back(*p);
+			//Do not add packet if legacy "F1" test data which is longer than new F1 SBE_ERROR message
+			if ( p->header.sensorID != 241 || p->size < 300 ) {
+			  m.packets.push_back(*p);
+			}
 			n += p->size;
 			if (p->size == 0) {
-				log(std::string("-- Message Error [momsn ") + std::to_string(m.momsn));
+			  	log(std::string("-- Message Error [momsn ") + std::to_string(m.momsn));
 				break;
 			}
 		}
