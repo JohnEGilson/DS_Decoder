@@ -17,7 +17,6 @@ hexfile::hexfile( std::string f ) {
 	// Open .hex file
 	filepath = f;
         filename = f.substr(f.find_last_of("/\\") + 1); // file basename
-	//std::cout << "In hexfile " << filename << std::endl;
 
 	fin.open(filepath,std::ifstream::binary);
 	if ( !fin.good() ) {
@@ -41,7 +40,6 @@ hexfile::hexfile( std::string f ) {
 			log(std::string(" -- warning, ignoring duplicate PID: ") + std::to_string(m.PID) );
 			continue;
 		}
-		//std::cout << "Next step "<< sn << " " << cycle << std::endl;
 		for( const auto &p : m.packets ) {
 			packets.push_back(p);
 		}
@@ -58,7 +56,6 @@ std::ostream & operator << ( std::ostream &os, hexfile &h) {
 
 	std::map<std::string,int> packets;
 	std::map<std::string,int> pcnt;
-
 
 	os << "#        SN Cycle Size PID                Date Sensor_IDs" << std::endl;
 	for (auto & [PID,m] : h.messages) {
@@ -113,9 +110,11 @@ std::ostream & operator << ( std::ostream &os, hexfile &h) {
 			if (pcnt.count(std::string(profile_key)) == 0)
 				pcnt[std::string(profile_key)] = 0;
 
-			// Increment
-			packets[std::string(profile_key)] += p.size;
-			pcnt[std::string(profile_key)]++;
+			// Increment if NOT "test data" legacy F1 message
+			if (p.header.sensorID != 241 || p.size < 250 ) {  //do not increment "Test" F1 messages which are greater size than new F1 label messages
+			  packets[std::string(profile_key)] += p.size;
+			  pcnt[std::string(profile_key)]++;
+		        }
 		}
 
 		os << std::dec << std::setfill(' ') << std::endl;
@@ -139,7 +138,6 @@ std::ostream & operator << ( std::ostream &os, hexfile &h) {
 
 void hexfile::print() {
 	for (auto & [PID,m] : messages) {
-		//std::cout << "Message PID:" << PID << " size: " << m.size << std::endl;
 		for (auto p : m.packets) {
 			for( int h = 0; h < p.data.size(); h++) {
 				if (h > 50) {
@@ -256,16 +254,17 @@ void hexfile::Decode() {
 		bit.parse(p.data);
             }
 	    else if (p.header.sensorID == 241 ) { // SBE error count engineering data
-					sbe_data.parse_pfile(p.data,DS_PATH + "/config/SBEerror_Data.json");
-					//log("Packet[F1] Diagnostic");
+		    if ( p.header.nDat1 < 1 ) { //do not run "Test" F1 messages which are longer size
+		       sbe_data.parse_pfile(p.data,DS_PATH + "/config/SBEerror_Data.json");
+	            }
 	    }
-			else if ( config["packets"].contains(key) ) {
+	    else if ( config["packets"].contains(key) ) {  ///All the profile messages
 				string pname = config["packets"][key]["profile"];
 				//std::cout << pname << std::endl;
 				string vname = config["packets"][key]["name"];
 				//std::cout << vname << std::endl;
 				prof[pname].insert(p.data);
-			}
+	    }
 	}
 
 	// Convert raw counts to SI units
