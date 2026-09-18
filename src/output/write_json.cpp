@@ -229,63 +229,64 @@ void hexfile::write_JSON() {
   fout << "  \"telemetry_summary\": [" << std::fixed << std::endl;
   first1 = true;
   for (auto & [PID,m] : messages) {
-    if (!first1)
-      fout << "," << std::endl;
-    first1 = false;
-    fout << "    { \"PID\": " << std::setw(2) << PID << ", ";
-    fout << "\"source\": \"" << m.type << "\", ";
-    fout << "\"TIME\": \"" << date_format(m.time,config["DATE_FORMAT"]) << "\", ";
-    if ( m.momsn > 32767 ) { //convert to signed
-      fout << "\"momsn\": " << m.momsn - 65536 << ", ";
-    } else {
-      fout << "\"momsn\": " << m.momsn << ", ";
-    }
-	fout << std::setfill(' ');
-    fout << "\"size\": " << std::setw(4) << m.size << ", ";
-    fout << "\"sensor_ids\": [";
-    total_bytes += m.size;
-    first2 = true;
-    // compute packet statistics
-    for (auto p : m.packets) {
-      if (!first2)
-        fout << ",";
-      first2 = false;
-      packet_count++;
-      packet_bytes += p.size;
-      int sensor_id = ( (p.data[0] & 0xf0 ) >> 4 );
-      int segment = ( p.data[0] & 0x0f );
-      if ( ( sensor_id >= 1 && sensor_id <= 3 ) | sensor_id == 7 ) {
-        segment = ( p.data[0] & 0x0f ) % 4; //channel types 4 segments apart
-      } else if ( sensor_id >= 9 && sensor_id <= 11 && segment == 15 ) {
-        segment = 6; // Drift has one more segment than high res
-      } else if ( sensor_id >= 9 && sensor_id <= 11 ) {
-        segment = ( p.data[0] & 0x0f ) % 5; //channel types 5 segments apart
-      }
-      int data_id;
-      if ( p.data[0] > 9 & p.data[0] < 218 ) { //these span the key that have multiple messages
-        data_id = p.data[0] - segment; 
+    if ( m.packets.size() ) { //Only write message if it has defined sensor_ids (packets)...Else designed for Test data, packet label 241
+      if (!first1)
+        fout << "," << std::endl;
+      first1 = false;
+      fout << "    { \"PID\": " << std::setw(2) << PID << ", ";
+      fout << "\"source\": \"" << m.type << "\", ";
+      fout << "\"TIME\": \"" << date_format(m.time,config["DATE_FORMAT"]) << "\", ";
+      if ( m.momsn > 32767 ) { //convert to signed
+        fout << "\"momsn\": " << m.momsn - 65536 << ", ";
       } else {
-        data_id = p.data[0]; 
+        fout << "\"momsn\": " << m.momsn << ", ";
       }
-      //std::cout << " data_id in write_json " << data_id << std::endl;
-      fout << (unsigned int)data_id;
-      int pro = 0; //int pro = p.data[4];
+      fout << std::setfill(' ');
+      fout << "\"size\": " << std::setw(4) << m.size << ", ";
+      fout << "\"sensor_ids\": [";
+      total_bytes += m.size;
+      first2 = true;
+      // compute packet statistics
+      for (auto p : m.packets) {
+        if (!first2)
+          fout << ",";
+        first2 = false;
+        packet_count++;
+        packet_bytes += p.size;
+        int sensor_id = ( (p.data[0] & 0xf0 ) >> 4 );
+        int segment = ( p.data[0] & 0x0f );
+        if ( ( sensor_id >= 1 && sensor_id <= 3 ) | sensor_id == 7 ) {
+          segment = ( p.data[0] & 0x0f ) % 4; //channel types 4 segments apart
+        } else if ( sensor_id >= 9 && sensor_id <= 11 && segment == 15 ) {
+          segment = 6; // Drift has one more segment than high res
+        } else if ( sensor_id >= 9 && sensor_id <= 11 ) {
+          segment = ( p.data[0] & 0x0f ) % 5; //channel types 5 segments apart
+        }
+        int data_id;
+        if ( p.data[0] > 9 & p.data[0] < 218 ) { //these span the key that have multiple messages
+          data_id = p.data[0] - segment; 
+        } else {
+          data_id = p.data[0]; 
+        }
+        fout << (unsigned int)data_id;
+        int pro = 0; //int pro = p.data[4];
 
-      // Pump v1 packet format does not have a fixed pro byte; hardcode it to be zero
-      if (sensor_id == 4 && data_id == 4)
-        pro = 0;
+        // Pump v1 packet format does not have a fixed pro byte; hardcode it to be zero
+        if (sensor_id == 4 && data_id == 4)
+          pro = 0;
 
-      sprintf(profile_key,"%02X",data_id);
-      // Initialize if missing
-      if (packets.count(std::string(profile_key)) == 0)
-        packets[std::string(profile_key)] = 0;
-      if (pcnt.count(std::string(profile_key)) == 0)
-        pcnt[std::string(profile_key)] = 0;
-      // Increment
-      packets[std::string(profile_key)] += p.size;
-      pcnt[std::string(profile_key)]++;
+        sprintf(profile_key,"%02X",data_id);
+        // Initialize if missing
+        if (packets.count(std::string(profile_key)) == 0)
+          packets[std::string(profile_key)] = 0;
+        if (pcnt.count(std::string(profile_key)) == 0)
+          pcnt[std::string(profile_key)] = 0;
+        // Increment
+        packets[std::string(profile_key)] += p.size;
+        pcnt[std::string(profile_key)]++;
+      }
+      fout << "] }";
     }
-    fout << "] }";
   }
   fout << std::endl;
   fout << "  ]," << std::endl;
